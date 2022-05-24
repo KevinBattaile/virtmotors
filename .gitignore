@@ -1,0 +1,10 @@
+.vscode/
+O.*/
+dbd/
+db/
+include/
+lib/
+bin/
+*.log
+*.local
+envPaths
